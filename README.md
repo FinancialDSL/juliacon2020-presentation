@@ -1,7 +1,6 @@
 
 # FinancialDSL.jl Demo Notebook
 
-Code examples for JuliaCon 2020 Talk [When compiler technology meets Market Risk Management](https://pretalx.com/juliacon2020/talk/review/HCTDBQBSTGA8A7WZVMGHMDZQVXRPFFHG).
+Code examples for the JuliaCon 2020 talk ["When compiler technology meets Market Risk Management"](https://www.youtube.com/watch?v=4vDub-yoX1E).
 
 The package source code is hosted at https://github.com/FinancialDSL/FinancialDSL.jl.
-
